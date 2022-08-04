@@ -1,5 +1,5 @@
 # Curse-Of-Dimensionality
-curse of dimensionality in python
+Curse of dimensionality ( python ) 
 
 # Code
 
